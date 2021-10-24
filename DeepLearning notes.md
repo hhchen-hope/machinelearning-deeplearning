@@ -1,0 +1,6 @@
+# DeepLearning notes
+
+## Bias
+
+
+
